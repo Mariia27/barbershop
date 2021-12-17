@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://stadvar.github.io/neo-smart",
+  "homepage": "https://github.com/Mariia27/barbershop",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
